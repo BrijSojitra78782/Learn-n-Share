@@ -7,13 +7,7 @@ The project is developed using MERN Stack and is designed to be user-friendly, i
 
 We hope that this project will be useful for individuals and groups who are interested in collaborating and sharing knowledge on various topics. Please feel free to explore the code and contribute to the project by submitting pull requests or issues. Thank you for your interest in our project!
 
-## SRS Document
-
-[Document](https://docs.google.com/document/d/1JNK1l1UVuzRfeEsbTi0GyLNAc9kq2Gm5/edit?usp=sharing&ouid=103229390666509090327&rtpof=true&sd=true)
-
 ## Demo
-
-Video Link : https://www.youtube.com/watch?v=hrPbWc7mh8o
 
 Website Link : https://harshsojitra007.github.io/CodeStudy/
 
@@ -67,10 +61,3 @@ JWT_EXPIRES_IN=SpecifyTimeInConventionsForExpiryOfTokensGenerated
 5) User Profile: Users have their own profiles where they can view their activity history, their posts, and their comments.
 
 Security: The platform is designed with security in mind to ensure that user data is protected.
-
-
-## Authors
-
-- [@DAKSHAY SOLANKI](https://github.com/DAKSHAY111)
-- [@HARSH SOJITRA](https://github.com/harshsojitra007)
-
